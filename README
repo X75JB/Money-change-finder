@@ -1,0 +1,5 @@
+Create a program that decides what to give as change
+
+Level 1 - If you round the prices to the nearest $0.05 when they are inputted.
+Level 2 - Prices are rounded to the nearest $0.01 when they are inputted.
+Level 3 - Create a new class called Money and create items that are added to the money class.  Your output should be parameters of the items. 
